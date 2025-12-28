@@ -7,9 +7,9 @@ Questions are generated and evaluated by Gemini APIs.
 
 ## How to get started?
 
-1. Go to the [notebook](https://github.com/AI-ML-Notes/Interview-Question-Generator/blob/main/Interview_Question_Generator.ipynb)
+1. Go to the [notebook](https://github.com/AI-ML-Notes/Interview-Question-Generator/blob/main/Interview_Question_Generator.ipynb). <br> Click "Open in Colab" at the top.
 
-2. Generate you Gemini API Key on [Google AI Studio](https://aistudio.google.com/app/api-keys). <br> Update it on line number 25. 
+2. Generate you Gemini API Key on [Google AI Studio](https://aistudio.google.com/app/api-keys). It's free for trial usage. <br> Update it on line number 25. 
 (os.environ["GOOGLE_API_KEY"] = ""    # YOUR_GEMINI_API_KEY)
 
 3. Uncomment the first line of code. <br>
